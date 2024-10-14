@@ -5,7 +5,9 @@ The purpose of a recommendation system basically is to search for content that w
 
 Dataset has been used:  https://www.kaggle.com/datasets/ra4u12/bookrecommendation
 
-Concept used to build the model.pkl file : NearestNeighbors
+Concept used to build the model.pkl file : 
+NearestNeighbors
+
 1 . Load the data
 
 2 . Initialise the value of k
